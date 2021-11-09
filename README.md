@@ -23,15 +23,15 @@ _Was ich mag:_
 
 > Tiere insbesondere Hunde :dog:
 
-> Achterbahn fahren (Europapark) 
+> Achterbahn fahren (Europapark) :roller_coaster:
 
-> Musik hören 
+> Kaffe :coffee:
 
 > Spazieren gehen in der Natur
 
 _Was ich nicht mag:_
 
-> Spinnen 
+> Spinnen 🕷️
 
 > nörgelde Menschen 
 
