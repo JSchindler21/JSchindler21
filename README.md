@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Über mich: 
 
-#### Ich bin Janet, 31 Jahre und wohne seid kurzem auf der schwäbischen Alb, komme ursprüglich aber aus der Nähe von Freiburg.
-#### Ich bin Fotografin und nun angehende Junoir Web Developerin. :ok_hand:
+#### Ich bin Janet, 31 Jahre, Fotografin und wohne seid kurzem auf der schwäbischen Alb, komme ursprüglich aber aus der Nähe von Freiburg. Im Moment bin ich _Trainee_ bei neue Fische als Junoir Web Developerin. :ok_hand:
 
 
 _Was ich mag:_ 
