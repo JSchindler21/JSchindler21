@@ -2,7 +2,8 @@
 
 ## Über mich:
 
-#### Ich bin Janet, 31 Jahre, Fotografin und wohne seid kurzem auf der schwäbischen Alb, komme ursprüglich aber aus der Nähe von Freiburg. Im Moment bin ich _Trainee_ bei neue Fische als Junoir Web Developerin. :ok_hand:
+#### Ich bin Janet, 31 Jahre und wohne seid kurzem auf der schwäbischen Alb, komme ursprüglich aber aus der Nähe von Freiburg. Ich bin Fotografin, wollte aber schon sehr lang mich in die Richtung Webdesign und Webentwicklung weiterbilden. 
+### Von November 2021 bis Februar 2022 war ich Trainee bei neue fische und habe das Bootcamp in Software Entwicklung absolviert. :ok_hand:
 
 _Was ich mag:_
 
